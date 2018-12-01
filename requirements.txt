@@ -1,0 +1,10 @@
+pylint
+
+python-xmp-toolkit
+rdflib
+exifread
+googlemaps
+geopy
+pyyaml
+Pillow-SIMD
+mezmorize
