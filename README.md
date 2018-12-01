@@ -77,3 +77,7 @@ python -m cProfile -s tottime print_exif_info.py | tee profile.log
 ~~~
 deactivate
 ~~~
+
+## VSCode Debugging
+
+If VSCode has issues debugging try setting ```MULTI_PROCESSING``` to ```False``` in script ```print_exif_info.py```.
